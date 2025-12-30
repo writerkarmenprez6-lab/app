@@ -1,0 +1,5 @@
+{
+  "name": "PDF a E-Book con IA",
+  "description": "Convierte tus documentos PDF en E-Books estructurados y legibles utilizando la potencia de Gemini 1.5 Flash. Ideal para lectura cómoda en cualquier dispositivo.",
+  "requestFramePermissions": []
+}
